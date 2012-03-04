@@ -1,0 +1,28 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+*.swp
+*.sdf
+*.opensdf
+*.sln
+*.suo
+*.ipch
+*.log
+*.exe
+*.ilk
+*.pdb
+*.tlog
+*.FMP
+*.obj
+*.manifest
+*.idb
